@@ -2,7 +2,7 @@
 
 ## Purpose of Project
 
-For this project, I explored loan-level data for the Rocket Mortgage financial institution to identify loan and borrower characteristics using **Excel and Tableau**. 
+For this project, I explored loan-level data for the Rocket Mortgage financial institution to identify loan and borrower characteristics using **Excel and Tableau**. All files referenced can be found at this [link](https://drive.google.com/drive/folders/15DJZE1g5xDiOCeXR1o2XEJahfrOaEruf?usp=sharing)
 
 ## Data Analysis Process
 
