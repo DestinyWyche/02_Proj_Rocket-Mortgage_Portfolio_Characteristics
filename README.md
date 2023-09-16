@@ -30,10 +30,10 @@ In this project, I answered the following questions about the loans and borrower
 - Raw data was an csv file with delimiters, so I used the **text to columns function** in **Excel** to separate data in readable rows and columns.
 - Some columns had data field numbers which corresponded to certain descriptions found in the online data schema (which can be found at this [link](https://ffiec.cfpb.gov/documentation/publications/modified-lar/modified-lar-schema)). So, I used **VLOOKUP function** to create a new column that defined these data field numbers    
   
-![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/ba5ac79b-2bd6-4177-b72e-e53981f03482)  
-![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/dd13ac10-2a7b-42ab-9e08-5e9984632053)  
-![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/d20cfac1-7d0a-4dee-bd1f-55a30a1cc439)    
-   
+![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Portfolio_Characteristics/assets/111715383/e86e8577-4fa4-47fb-b579-0d993ec1bd27)  
+![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Portfolio_Characteristics/assets/111715383/ba3083a9-1acd-45eb-9540-a3161f4133de)  
+![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Portfolio_Characteristics/assets/111715383/d5c7ce7c-5a91-4965-b452-bdfda83363c1)
+  
  **This complete process can be viewed in file 01**  
   - This enabled me to explore the data and understand what questions it could answer more efficiently. This processed data was then saved as a csv file to be used later in tableau.
   
@@ -42,11 +42,11 @@ In this project, I answered the following questions about the loans and borrower
 ### Analyzing the data
 
 - To begin analyzing the data, I created **Pivot Tables** to summarize the information. These are critical to being able to gauge information quickly and they also provide a reference to ensure data visualizations are displaying the correct insights
-  ![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/fd1bc043-5f19-4e8a-8f59-c39b55146ed6)  
+  ![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Portfolio_Characteristics/assets/111715383/cbae3e58-dfb5-413f-a255-7a7494ee10be)
   
 **Complete tables can be viewed in file 01**  
-- Not all stakeholders are familiar with reading tables, so to make the insights more digestible, I created visualizations of each pivot table in **Tableau**. These visualizations were then combined into one dashboard.
+- Not all stakeholders are familiar with reading tables, so to make the insights more digestible, I created visualizations of each pivot table in **Tableau**. These visualizations were then combined into one dashboard.  
 
-![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/cd102eb6-7361-46d6-912d-fb5790eb8942)  
+![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Portfolio_Characteristics/assets/111715383/db8f2332-1c18-4642-bb7d-02f2093d9e00)
   
   **Source of visualizations can be viewed in file 03**
