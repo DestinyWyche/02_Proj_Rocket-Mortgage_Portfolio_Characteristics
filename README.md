@@ -33,12 +33,12 @@ In this project, I answered the following questions about the loans and borrower
 ![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/ba5ac79b-2bd6-4177-b72e-e53981f03482)  
 ![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/dd13ac10-2a7b-42ab-9e08-5e9984632053)  
 ![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/d20cfac1-7d0a-4dee-bd1f-55a30a1cc439)    
+   
+ **This complete process can be viewed in file 01**  
+  - This enabled me to explore the data and understand what questions it could answer more efficiently. This processed data was then saved as a csv file to be used later in tableau.
   
-  - This enabled me to explore the data and understand what questions it could answer more efficiently
-  - There were many different columns with a vareity of information. Therefore, after identifying the questions I wanted to answer, I hid the columns that I no longer needed.  
+**Dataset can be viewed in file 02**
   
-  **This complete process can be viewed in file 01**
- 
 ### Analyzing the data
 
 - To begin analyzing the data, I created **Pivot Tables** to summarize the information. These are critical to being able to guage information quickly and they also provide a reference to ensure data visualizations are displaying the correct insights
@@ -49,4 +49,4 @@ In this project, I answered the following questions about the loans and borrower
 
 ![image](https://github.com/DestinyWyche/02_Proj_Rocket-Mortgage_Characteristics/assets/111715383/cd102eb6-7361-46d6-912d-fb5790eb8942)  
   
-  **Source of visualizations can be viewed in file 02**
+  **Source of visualizations can be viewed in file 03**
